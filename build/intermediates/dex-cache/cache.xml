@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\demo\CaptureActivity1\app\libs\barcode_core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="G:\demo\CaptureActivity1\app\build\intermediates\transforms\dex\debug\folders\1000\2\barcode_core_3ebbf0280a43839c03a16fcaf2343a789ed4b99b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\demo\CaptureActivity1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e93ac9494e567a7e9ab402483abd47b02a698ba5">
+        <dex dex="G:\demo\CaptureActivity1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_04b4390b5afeecea88e0c78eee7bb92595b0773f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\demo\CaptureActivity1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="723773a974dc0e4117d197880ae6260abb5f63df">
+        <dex dex="G:\demo\CaptureActivity1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4c3ae01bfde6f573a8060a599205c69b962ef4fe\classes.dex" />
+    </item>
+
+</items>

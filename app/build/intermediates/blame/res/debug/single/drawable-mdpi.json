@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\demo\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\launcher_icon.png",
+        "source": "G:\\demo\\CaptureActivity\\app\\src\\main\\res\\drawable-mdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "G:\\demo\\CaptureActivity1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bottle_tip_button_nor.png",
+        "source": "G:\\demo\\CaptureActivity1\\app\\src\\main\\res\\drawable-mdpi\\bottle_tip_button_nor.png"
+    },
+    {
+        "merged": "G:\\demo\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bottle_tip_button_pressed.png",
+        "source": "G:\\demo\\CaptureActivity\\app\\src\\main\\res\\drawable-mdpi\\bottle_tip_button_pressed.png"
+    },
+    {
+        "merged": "G:\\demo\\CaptureActivity1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\launcher_icon.png",
+        "source": "G:\\demo\\CaptureActivity1\\app\\src\\main\\res\\drawable-mdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "G:\\demo\\CaptureActivity1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bottle_tip_button_pressed.png",
+        "source": "G:\\demo\\CaptureActivity1\\app\\src\\main\\res\\drawable-mdpi\\bottle_tip_button_pressed.png"
+    },
+    {
+        "merged": "G:\\demo\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bottle_tip_button_nor.png",
+        "source": "G:\\demo\\CaptureActivity\\app\\src\\main\\res\\drawable-mdpi\\bottle_tip_button_nor.png"
+    }
+]

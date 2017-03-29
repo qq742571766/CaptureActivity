@@ -1,0 +1,7 @@
+#Wed Mar 29 09:25:12 CST 2017
+base.0=G\:\\demo\\CaptureActivity1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4c3ae01bfde6f573a8060a599205c69b962ef4fe
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\demo\\CaptureActivity1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_04b4390b5afeecea88e0c78eee7bb92595b0773f\\classes.dex
+base.1=G\:\\demo\\CaptureActivity1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_04b4390b5afeecea88e0c78eee7bb92595b0773f
+file.0=G\:\\demo\\CaptureActivity1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4c3ae01bfde6f573a8060a599205c69b962ef4fe\\classes.dex

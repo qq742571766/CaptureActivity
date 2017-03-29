@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\demo\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weibo.jpg",
+        "source": "G:\\demo\\CaptureActivity\\app\\src\\main\\res\\drawable-hdpi\\weibo.jpg"
+    },
+    {
+        "merged": "G:\\demo\\CaptureActivity1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weibo.jpg",
+        "source": "G:\\demo\\CaptureActivity1\\app\\src\\main\\res\\drawable-hdpi\\weibo.jpg"
+    }
+]

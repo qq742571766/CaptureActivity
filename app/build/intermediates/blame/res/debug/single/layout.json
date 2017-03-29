@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\demo\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "G:\\demo\\CaptureActivity\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "G:\\demo\\CaptureActivity1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_title.xml",
+        "source": "G:\\demo\\CaptureActivity1\\app\\src\\main\\res\\layout\\common_title.xml"
+    },
+    {
+        "merged": "G:\\demo\\CaptureActivity1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "G:\\demo\\CaptureActivity1\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "G:\\demo\\CaptureActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_title.xml",
+        "source": "G:\\demo\\CaptureActivity\\app\\src\\main\\res\\layout\\common_title.xml"
+    }
+]
